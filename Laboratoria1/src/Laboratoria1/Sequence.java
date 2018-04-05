@@ -13,6 +13,7 @@ public Sequence(Class<T> buffer) {
 	unit = "empty";
 	resolution = 0;
 	Class<T> buffer = 0;
+	//test
 
 }
 
